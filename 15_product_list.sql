@@ -1,0 +1,2 @@
+SeleCT *
+FROM Suppliers;

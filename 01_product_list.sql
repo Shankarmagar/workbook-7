@@ -1,0 +1,1 @@
+-- Name of the table that holds the items is Products
