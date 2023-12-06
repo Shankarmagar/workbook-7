@@ -1,0 +1,2 @@
+SELECT Count(*)
+FROM Suppliers;
