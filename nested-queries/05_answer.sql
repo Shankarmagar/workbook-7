@@ -1,0 +1,1 @@
+SELECT CompanyName FROM customers WHERE CustomerID = (SELECT CustomerID FROM Orders WHERE OrderID = 10266);
